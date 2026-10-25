@@ -1,0 +1,2 @@
+# vpn.diddy
+vpn
